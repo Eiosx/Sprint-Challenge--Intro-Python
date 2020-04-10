@@ -27,7 +27,7 @@ def cityreader(cities=[]):
   # For each city record, create a new City instance and add it to the 
   # `cities` list
 
-  cities = []
+  
   import csv
 
   path = r'C:\Users\EJ\Sprint-Challenge--Intro-Python\src\cityreader\cities.csv'
